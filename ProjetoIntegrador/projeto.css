@@ -1,0 +1,100 @@
+.header{
+
+	margin: 0 auto;
+	border-style: solid;
+	padding: 30px;
+	background-image:linear-gradient(to top,#9400d3,indigo)
+
+}
+h3.class{
+	margin-top: 0px;
+	background-color: gray;
+	opacity: 90%;
+	color: white;
+
+}
+a.class{
+	padding: 20px;
+	font-size: 15px;
+	color: floralwhite;
+	text-decoration: none;
+}
+a.class2{
+	color: blue;
+	padding: 10px;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+input.class{
+margin-right:54px;
+}
+input.class2{
+	margin-top: 25px;
+	width: 125px;
+	height: 35px;
+	border: none;
+	border-radius: 20px;
+	background: #6C63FF;
+	color: white;
+	cursor: pointer;
+}
+input.class2:hover{
+	background: #5952D4;
+	transition: 0.3s;
+}
+h3.class2{
+	color: #1e436f;
+	margin-right: 15px;
+	font-size: 20px;
+}
+body{
+	background: #1b2029;
+}
+div.estilo{
+	text-align: center;
+	color: white;
+}
+div h1{
+	margin-left: 30px;
+	color: #8880FE;
+	font-size: 50px;
+
+}
+
+div form input{
+margin-top: 25px;
+background: black;
+color: gray;
+border-radius: 5px;
+border: 1px;
+outline: none;
+height: 35px;
+padding: 0 8px;
+}
+input.classdate{
+	margin-right: 60px;
+}
+select{
+background: gray;
+margin-left: 62px;
+}
+input.margem{
+	margin-right:20px;
+}
+input.botao{
+	margin-right: 20px;
+}
+
+table{
+	border: solid black; 
+	margin-top: 40px; 
+	color: floralwhite;
+	text-align:center;
+}
+
+
+

@@ -1,0 +1,114 @@
+.header{
+
+	margin: 0 auto;
+	border-style: solid;
+	padding: 30px;
+	background-image:linear-gradient(to top,#fff,indigo)	;
+
+}
+h3.class{
+	margin-top: 0px;
+	background-color: black;
+	opacity: 90%;
+
+}
+a.class{
+	padding: 20px;
+	font-size: 15px;
+	color: floralwhite;
+	text-decoration: none;
+}
+a.class2{
+	float: left;
+	margin: 3px 0px 0px 10px;
+	font-size: 15px;
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	text-decoration: underline;
+}
+.header2{
+	background-color: cyan;
+	margin:0 auto;
+	padding: 40px;
+	font-size: 50px;
+	text-align: center;
+}
+input.button{
+	margin: 1px 50px 0px 0px;
+	height: 40px;
+	width: 300px;
+	border: none;
+	background-color: #009640;
+	color: white;
+}
+input.button:hover{
+	background-color: #017934;
+	transition: all 0.6s;
+}
+input.class{
+margin-right:54px;
+}
+input.class2{
+	margin-left: 30px;
+	margin-top: 25px;
+	width: 125px;
+	height: 35px;
+	border: none;
+	border-radius: 30px;
+	background: #6C63FF;
+	color: white;
+	cursor: pointer;
+}
+input.class2:hover{
+	background: #5952D4;
+	transition: 0.3s;
+}
+textarea.class{
+	margin: 1px 66px 0px 10px;
+	height: 180px;
+	width: 488px;
+	resize: none;
+}
+h3.class2{
+	color: #1e436f;
+	margin-right: 15px;
+	font-size: 20px;
+}
+body{
+	background: #f8f8ff;
+}
+div.estilo{
+	text-align: left;
+	color: blue;
+	background-color: #f8f8ff;
+
+}
+label.text{
+	color: white;
+}
+
+div h1{
+	margin-left: 30px;
+	color: #8880FE;
+	font-size: 50px;
+
+}
+div form input{
+margin-top: 25px;
+background: black;
+color: gray;
+border-radius: 5px;
+border: 1px;
+outline: none;
+height: 35px;
+padding: 0 8px;
+}
+input.classdate{
+	margin-right: 50px;
+}
+select{
+	background:gray;
+	margin-left: 5px;
+}
